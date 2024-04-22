@@ -3,7 +3,7 @@ I'm Icaro Oliveira, a software engineer in training at Uni-FACEF, focusing on so
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/icaro-oliveira-112031246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/icaro-oliveira-112031246/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/icaro.oliveiira_/)
 
 # 💻 Tech Stack:
