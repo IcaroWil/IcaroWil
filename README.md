@@ -13,4 +13,3 @@ I'm Icaro Oliveira, a software engineer in training at Uni-FACEF, focusing on so
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IcaroWil&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroWil&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
